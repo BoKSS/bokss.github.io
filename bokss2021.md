@@ -36,8 +36,8 @@ topics related to sustainable software and software for sustainability:
 - Colin C. Venters, Sedef Akinli Kocak, Stefanie Betz, Ian Brooks, Rafa Capilla Sevilla, Ruzanna Chitchyan, Letícia Duboc, Rogardt Heldal, Ana Moreira, Shola Oyedeji, Birgit Penzenstadler, Jari Porras and Norbert Seyff. *Software Sustainability: Beyond the Tower of Babel*
 - Daniel S. Katz, Jeffrey Carver, Neil Chue Hong, Sandra Gesing, Simon Hettrick, Tom Honeyman, Karthik Ram and Nicholas Weber. *Addressing Research Software Sustainability via Institutes*
 - Orges Cico, Letizia Jaccheri and Anh Nguyen-Duc. *Software Sustainability in Customer-Driven Courses*
-- Jeffrey Carver, Ian Cosden, Chris Hill, Sandra Gesing and Daniel S. Katz. *Sustaining Research Software via Research Software Engineers and Professional Associations*
-- Keith Beattie and Daniel Gunter. *Strategies for working with protected data in an open-source collaborative scientific software project* ([PDF](https://arxiv.org/abs/2103.01880v1))
+- Jeffrey Carver, Ian Cosden, Chris Hill, Sandra Gesing and Daniel S. Katz. *Sustaining Research Software via Research Software Engineers and Professional Associations* ([PDF](https://arxiv.org/abs/2103.01880v1))
+- Keith Beattie and Daniel Gunter. *Strategies for working with protected data in an open-source collaborative scientific software project*
 - Armin Beer, Michael Felderer, Tobias Lorey and Stefan Mohacsi. *Aspects of sustainable test processes*
 - Norbert Seyff, Birgit Penzenstadler, Stefanie Betz, Ian Brooks, Shola Oyedeji, Jari Porras, Leticia Duboc, Sedef Akinli Kocak and Colin C. Venters. *The Elephant in the Room – Educating Practitioners on Software Development for Sustainability*
 
