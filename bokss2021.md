@@ -32,9 +32,9 @@ topics related to sustainable software and software for sustainability:
 ## List of Accepted Papers
 - Stephan Druskat, Daniel S. Katz and Ilian T. Todorov. *Research Software Sustainability and Citation*
 - Birgit Penzenstadler, Stefanie Betz, Letícia Duboc, Norbert Seyff, Ian Brooks, Jari Porras, Shola Oyedeji and Colin C. Venters. *Iterative Sustainability Impact Assessment: When to propose?*
-- Shanshan Jiang, Kine Jakobsen, Letizia Jaccheri and Jingyue Li. *Blockchain and Sustainability: A Tertiary Study*
+- Shanshan Jiang, Kine Jakobsen, Letizia Jaccheri and Jingyue Li. *Blockchain and Sustainability: A Tertiary Study* ([PDF](https://arxiv.org/abs/2103.16937))
 - Colin C. Venters, Sedef Akinli Kocak, Stefanie Betz, Ian Brooks, Rafa Capilla Sevilla, Ruzanna Chitchyan, Letícia Duboc, Rogardt Heldal, Ana Moreira, Shola Oyedeji, Birgit Penzenstadler, Jari Porras and Norbert Seyff. *Software Sustainability: Beyond the Tower of Babel*
-- Daniel S. Katz, Jeffrey Carver, Neil Chue Hong, Sandra Gesing, Simon Hettrick, Tom Honeyman, Karthik Ram and Nicholas Weber. *Addressing Research Software Sustainability via Institutes*  ([PDF](https://arxiv.org/abs/2103.03690))
+- Daniel S. Katz, Jeffrey Carver, Neil Chue Hong, Sandra Gesing, Simon Hettrick, Tom Honeyman, Karthik Ram and Nicholas Weber. *Addressing Research Software Sustainability via Institutes* ([PDF](https://arxiv.org/abs/2103.03690))
 - Orges Cico, Letizia Jaccheri and Anh Nguyen-Duc. *Software Sustainability in Customer-Driven Courses*
 - Jeffrey Carver, Ian Cosden, Chris Hill, Sandra Gesing and Daniel S. Katz. *Sustaining Research Software via Research Software Engineers and Professional Associations* ([PDF](https://arxiv.org/abs/2103.01880v1))
 - Keith Beattie and Daniel Gunter. *Strategies for working with protected data in an open-source collaborative scientific software project*
