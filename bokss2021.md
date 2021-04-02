@@ -33,7 +33,7 @@ topics related to sustainable software and software for sustainability:
 
 We are happy to host the following keynote talk.
 
-<p><img src="https://github.com/BoKSS/bokss.github.io/blob/9222aeedb633dc4147e3ecc1f7398a5420690cae/img/pierrebourque.jpeg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p>
+<p><img src="/img/pierrebourque.jpeg" width="200" /><a href="https://profs.etsmtl.ca/pbourque">Pierre Bourque</a> - ing., Ph.D.</p>
 
 **Lessons Learned from Building and Gaining Consensus on the SWEBOK Guide** - The proof of concept document of the Guide to the Software Engineering Body of Knowledge (SWEBOK) was made available in 1998—now more than 20 years ago. The speaker has played a key role in all published versions, as lead author of the proof of concept document or Straw Man version, co-editor of the Trial Version published in 2001 and of the 2004 version, and lead editor of SWEBOK Version 3.0 published in 2014. Based on the speaker’s experience in this initiative and some reflections on the actual impact of the SWEBOK Guide, this keynote presentation will convey some of the lessons learned and challenges of building, updating and gaining consensus on a body of knowledge.  The speaker will notably address the importance of defining the scope, objectives, and intended audiences, obtaining funding, using an open process, building partnerships with sponsors, professional societies and standardization organizations, assuring wide availability and following an iterative approach.
 
