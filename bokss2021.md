@@ -22,7 +22,7 @@ In addition to the knowledge base mentioned above, the envisaged workshop outcom
 ## Topics of Interest
 
 BoKSS 2021 seeks contributions addressing, but not limited to, the following
-topics related to sustainable software and software for sustainability:
+topics related to sustainable software and software for sustainability:https://docs.google.com/spreadsheets/d/1ovdHoca8bpalmvuI7Sql9jq8W1FsmzAabg2hig9rc2o/edit#gid=1238767987
 - Practices for software sustainability
 - Metrics and measures for software sustainability
 - Applied, or experimented with, software engineering methodologies at all levels (from requirements elicitation to architecture design, coding, testing)
