@@ -41,7 +41,7 @@ We are happy to host the following keynote talk.
 
 
 ## List of Accepted Papers
-- Stephan Druskat, Daniel S. Katz and Ilian T. Todorov. *Research Software Sustainability and Citation*
+- Stephan Druskat, Daniel S. Katz and Ilian T. Todorov. *Research Software Sustainability and Citation* ([PDF](https://arxiv.org/abs/2103.06681))
 - Birgit Penzenstadler, Stefanie Betz, Letícia Duboc, Norbert Seyff, Ian Brooks, Jari Porras, Shola Oyedeji and Colin C. Venters. *Iterative Sustainability Impact Assessment: When to propose?* ([PDF](https://figshare.com/articles/preprint/Iterative_Sustainability_Impact_Assessment_When_to_propose_/14370587))
 - Shanshan Jiang, Kine Jakobsen, Letizia Jaccheri and Jingyue Li. *Blockchain and Sustainability: A Tertiary Study* ([PDF](https://arxiv.org/abs/2103.16937))
 - Colin C. Venters, Sedef Akinli Kocak, Stefanie Betz, Ian Brooks, Rafa Capilla Sevilla, Ruzanna Chitchyan, Letícia Duboc, Rogardt Heldal, Ana Moreira, Shola Oyedeji, Birgit Penzenstadler, Jari Porras and Norbert Seyff. *Software Sustainability: Beyond the Tower of Babel* ([PDF](https://figshare.com/articles/preprint/Software_Sustainability_Beyond_the_Tower_of_Babel/14370611))
