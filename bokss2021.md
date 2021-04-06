@@ -49,7 +49,7 @@ We are happy to host the following keynote talk.
 - Orges Cico, Letizia Jaccheri and Anh Nguyen-Duc. *Software Sustainability in Customer-Driven Courses* ([PDF](https://www.researchgate.net/publication/350591256_Software_Sustainability_in_Customer-Driven_Courses))
 - Jeffrey Carver, Ian Cosden, Chris Hill, Sandra Gesing and Daniel S. Katz. *Sustaining Research Software via Research Software Engineers and Professional Associations* ([PDF](https://arxiv.org/abs/2103.01880v1))
 - Keith Beattie and Daniel Gunter. *Strategies for working with protected data in an open-source collaborative scientific software project*
-- Armin Beer, Michael Felderer, Tobias Lorey and Stefan Mohacsi. *Aspects of sustainable test processes*
+- Armin Beer, Michael Felderer, Tobias Lorey and Stefan Mohacsi. *Aspects of sustainable test processes* ([PDF](https://arxiv.org/abs/2104.01337))
 - Norbert Seyff, Birgit Penzenstadler, Stefanie Betz, Ian Brooks, Shola Oyedeji, Jari Porras, Leticia Duboc, Sedef Akinli Kocak and Colin C. Venters. *The Elephant in the Room – Educating Practitioners on Software Development for Sustainability* ([PDF](https://figshare.com/articles/preprint/The_Elephant_in_the_Room_Educating_Practitioners_on_Software_Development_for_Sustainability/14370626))
 
 ## Workshop Program 
