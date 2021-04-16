@@ -56,16 +56,16 @@ We are happy to host the following keynote talk.
 **Before** the workshop days, we will setup a Slack Channel for all registered participants. We will use it to kickstart the working groups to build the BoKSS and plan for joint papers.
 The **workshop** itself is organized in **two half-days**, each opening and closing with a plenary, with in-between independent working groups. **More details to come.**
 
-#### DAY 1: 14:00-17:30 CET
+#### DAY 1: 14:00-17:30 CEST
 - *13:45-14:00 Joining us*
-- **14:00-14:45** Keynote (TBA)
+- **14:00-14:45** Keynote: Lessons Learned from Building and Gaining Consensus on the SWEBOK Guide (Pierre Bourque)
 - *14:45-14:55 Break*
 - **14:55-15:40** The Vision of a BoKSS (P. Lago, R. Kazman) and Discussion
 - *15:45-15:55 Switch to own working group*
 - **15:55-17:00** independent work (parallel session 1)
 - **17:00-17:30** Wrapup
 
-#### DAY 2: 14:00-17:30 CET
+#### DAY 2: 14:00-17:30 CEST
 - **14:00-14:15** Kickstart - 15 minutes
 - **14:15-15:00** independent work (parallel session 2)
 - *15:00-15:15 Break*
